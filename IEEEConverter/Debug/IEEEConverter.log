@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Visual Studios Projects\IEEEConverter\IEEEConverter\Source.cpp(63,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IEEEConverter.vcxproj -> F:\Visual Studios Projects\IEEEConverter\Debug\IEEEConverter.exe
